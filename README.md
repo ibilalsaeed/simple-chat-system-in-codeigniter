@@ -3,13 +3,13 @@
 
 
 
-Name:  Mahana Messaging Library for CodeIgniter
+Name: Simple Personal Messaging Systme in CodeIgniter
 
-Author: Jeff Madsen
-        jrmadsen67@gmail.com
-        http://www.codebyjeff.com
+Author: Abdul Rehman
+        rehman.infinitech@gmail.com
+        http://infinitech.agency
 
-Location: - git@github.com:jrmadsen67/Mahana-Messaging-library-for-CodeIgniter.git
+Location: - https://github.com/ibilalsaeed/simple-chat-system-in-codeigniter.git
 
 Description:  CI library for linking to application's existing user table and creating basis of an internal messaging system
            No views or controllers included - DO CHECK the README for setup instructions and notes
